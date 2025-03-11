@@ -1,0 +1,34 @@
+﻿Exercício - Aula 1.10 
+
+
+2) Com base no cenário descrito, analise qual paradigma de programação seria mais indicado para implementar o sistema de gerenciamento da biblioteca:
+c) programação orientada a objetos  (POO)
+
+
+Justifique sua escolha considerando a estrutura e as interações entre os objetos do sistema. Para facilitar, considere pontos como: 
+
+
+* Estrutura e interação das entidades do sistema (Livros, autores, usuários e demais)
+Cada uma dessas entidades possui atributos próprios, como o título do livro, o nome do autor e a idade do usuário. Além disso, elas têm comportamentos, como registrar o empréstimo de um livro ou devolver um livro. A Orientação a Objetos permite que essas entidades sejam organizadas como classes com atributos e métodos, facilitando a organização do sistema.
+* Reuso
+A Programação Orientada a Objetos permite o reuso de código através da herança, onde classes podem herdar características e comportamentos de outras, promovendo eficiência e a reutilização. 
+* Qual paradigma facilitaria a evolução do sistema, no futuro
+A Programação Orientada a Objetos facilita a evolução do sistema, pois é mais fácil de modificar ou expandir as classes de forma. Se surgir a necessidade de adicionar novos tipos de livros ou modificar o comportamento do processo de empréstimo, podemos alterar ou criar novas classes sem afetar o resto do sistema. A utilização de interfaces e polimorfismo também ajuda na evolução do sistema, permitindo adicionar novos comportamentos sem alterar o código existente.
+
+
+
+
+
+
+
+
+
+
+
+
+* Eficiência, dado o cenário apresentado
+A Programação Orientada a Objetos pode ser um pouco mais complexa no início devido à definição das classes e objetos, ela oferece uma maneira mais natural de organizar e manipular os dados. O paradigma permite que o código seja mais compreensível e de fácil manutenção à medida que o sistema cresce. A eficiência de processamento não é significativamente impactada pela escolha da POO, especialmente em um sistema de gerenciamento como o descrito, onde a clareza e a organização são mais importantes.
+
+
+* Conclusão
+Devido a esses fatores, a Programação Orientada a Objetos é o paradigma mais adequado para o sistema de gerenciamento de biblioteca.
